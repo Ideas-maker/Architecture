@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-02T11:31:24.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="BnN4v1YSMkReFSHtGp2E" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T11:32:34.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="k3aZ5rwcY9tmXw59oJwn" version="12.6.2" type="github">
   <diagram id="ReEPKnEd_0EWLOPjoHZj" name="Page-1">
-    <mxGraphModel dx="2480" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -61,7 +61,7 @@
           <mxGeometry x="358.3333333333333" y="29.25" width="233.33333333333331" height="66.25000000000001" as="geometry"/>
         </mxCell>
         <mxCell id="Ve-bfU57_sxpQLA3fy4P-26" value="&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;Модель JSON совпадает с моделью БД.&lt;br&gt;Структура данных возвращается на front и обрабатывается шаблонизатором DJANGO&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="550" width="640" height="130" as="geometry"/>
+          <mxGeometry x="262.86" y="590" width="640" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="Ve-bfU57_sxpQLA3fy4P-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="16" width="210" height="474" as="geometry"/>
